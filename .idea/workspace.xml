@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39183362-d832-4737-a580-4f7129607807" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/dev-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/dev-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/dev-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/dev-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/vue-loader.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/logo4.png" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/logo4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/alert.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/alert.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/badge.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/badge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/breadcrumb-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/breadcrumb-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/breadcrumb.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/breadcrumb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/button-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/button-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/carousel-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/carousel-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/cascader.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/cascader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/checkbox-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/checkbox-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/checkbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/checkbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/col.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/col.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/collapse-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/collapse-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/collapse.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/collapse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/color-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/color-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/date-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/date-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/dropdown-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/dropdown-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/dropdown-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/dropdown-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/fonts/element-icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/fonts/element-icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/fonts/element-icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/fonts/element-icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/form-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/form-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/input-number.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/input-number.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/loading.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/loading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/menu-item-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/menu-item-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/menu-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/menu-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/message-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/message-box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/message.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/message.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/notification.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/notification.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/option-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/option-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/option.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/option.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/pagination.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/popover.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/popover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/progress.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/progress.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/radio-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/radio-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/radio-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/radio-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/radio.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/radio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/rate.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/rate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/row.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/row.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/scrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/scrollbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/select-dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/select-dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/select.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/spinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/spinner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/step.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/step.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/steps.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/steps.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/submenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/submenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/switch.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/switch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/tab-pane.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/tab-pane.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/table-column.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/table-column.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/tag.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/tag.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/time-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/time-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/time-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/time-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/tooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/tree.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/tree.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-darkblue/upload.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-darkblue/upload.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/alert.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/alert.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/badge.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/badge.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/breadcrumb-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/breadcrumb-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/breadcrumb.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/breadcrumb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/button-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/button-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/button.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/carousel-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/carousel-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/cascader.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/cascader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/checkbox-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/checkbox-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/checkbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/checkbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/col.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/col.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/collapse-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/collapse-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/collapse.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/collapse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/color-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/color-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/date-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/date-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/dropdown-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/dropdown-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/dropdown-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/dropdown-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/fonts/element-icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/fonts/element-icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/fonts/element-icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/fonts/element-icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/form-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/form-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/input-number.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/input-number.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/loading.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/loading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/menu-item-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/menu-item-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/menu-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/menu-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/message-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/message-box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/message.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/message.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/notification.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/notification.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/option-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/option-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/option.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/option.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/pagination.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/popover.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/popover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/progress.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/progress.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/radio-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/radio-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/radio-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/radio-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/radio.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/radio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/rate.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/rate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/row.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/row.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/scrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/scrollbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/select-dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/select-dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/select.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/spinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/spinner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/step.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/step.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/steps.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/steps.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/submenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/submenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/switch.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/switch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/tab-pane.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/tab-pane.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/table-column.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/table-column.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/tag.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/tag.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/time-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/time-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/time-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/time-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/tooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/tree.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/tree.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/theme/theme-green/upload.css" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/theme/theme-green/upload.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/assets/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/assets/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/common/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/common/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/components/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/components/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/mock/data/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/mock/data/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/mock/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/mock/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/mock/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/mock/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/styles/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/styles/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/404.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/404.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/charts/echarts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/charts/echarts.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/nav1/Form.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/nav1/Form.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/nav1/Table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/nav1/Table.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/nav1/user.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/nav1/user.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/nav2/Page4.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/nav2/Page4.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/nav2/Page5.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/nav2/Page5.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/nav3/Page6.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/nav3/Page6.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/product/Brand.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/product/Brand.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/product/ProductType.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/views/product/ProductType.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/vuex/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/vuex/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/vuex/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/vuex/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/vuex/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/src/vuex/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/aiqi-admin-web/static/.gitkeep" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S2NwDmaE8U5ZUq4PvRJ9CFDyb4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aiqi-parent" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ymsd\aigou-web-parent\aigou-admin-web\src\views\product" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39183362-d832-4737-a580-4f7129607807" name="Default Changelist" comment="" />
+      <created>1570758427867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570758427867</updated>
+      <workItem from="1570758432164" duration="3275000" />
+      <workItem from="1570763604068" duration="8082000" />
+      <workItem from="1570780368510" duration="594000" />
+      <workItem from="1570786138827" duration="3303000" />
+      <workItem from="1570799002120" duration="278000" />
+      <workItem from="1570806990511" duration="7000" />
+      <workItem from="1570860830524" duration="7648000" />
+      <workItem from="1570977477701" duration="104000" />
+      <workItem from="1570977609169" duration="2024000" />
+    </task>
+    <task id="LOCAL-00001" summary="登录">
+      <created>1570789745848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570789745848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="登录" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录" />
+  </component>
+</project>
